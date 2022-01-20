@@ -83,4 +83,8 @@ For authentication
 - crypt
 - express-session
 - connect session-sequelize
-  https://aqueous-brook-63324.herokuapp.com/
+
+## Website
+
+github https://github.com/fallf/Tech-Blog
+heroku app https://aqueous-brook-63324.herokuapp.com/
